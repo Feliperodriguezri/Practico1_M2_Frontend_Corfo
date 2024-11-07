@@ -1,0 +1,25 @@
+#Descripcion del Proyecto
+## autor: Felipe Rodriguez
+## curso: Front-end Grupo 1
+## Proyecto: Desarrollo de 3 vistas (home, equipo medico, contacto) para sitio web de centro medico/hospital, el cual es responsivo para diferente pantallas. todo en el marco de la prueba 1 del modulo 2 del curso
+
+#Instrucciones de visualizacion del proyecto:
+## 1. Descargar el archivo zip del proyecto desde el repositorio de GitHub: https://github.com/FelipeRodriguez/
+## 2. Extraer el contenido del archivo zip en una carpeta en su computadora.
+## 3. Abrir el archivo index.html en un navegador web (Google Chrome, Mozilla Firefox, Safari, etc.).
+
+#estructura del proyecto
+## El proyecto consta de 3 archivos HTML (index.html, equipoMedico.html, contacto.html), 1 carpeta assets (con 3 subcarpetas: css, img y js), 1 archivo CSS (styles.css)
+
+#explicacion de cada vista
+## 1. Home (index.html): Esta es la página principal del sitio web, que presenta una breve introducción al centro médico y sus servicios. La página incluye una sección de noticias, una sección de servicios y una sección de contacto. La página también incluye un menú de navegación que permite a los usuarios acceder a otras secciones del sitio web. La página es responsiva y se adapta a diferentes tamaños de pantalla.
+
+## 2. Equipo Médico (equipoMedico.html): Esta página presenta información sobre el equipo médico del centro médico. La página incluye fotos y biografías de los médicos y otros profesionales de la salud que trabajan en el centro médico. La página también incluye un menú de navegación que permite a los usuarios acceder a otras secciones del sitio web. La página es responsiva y se adapta a diferentes tamaños de pantalla.
+
+## 3. Contacto (contacto.html): Esta página proporciona información de contacto para el centro médico, incluyendo su dirección, número de teléfono y correo electrónico. La página también incluye un formulario de contacto que los usuarios pueden utilizar para enviar preguntas o comentarios al centro médico y un mapa de google maps que muestra su ubicación. La página incluye un menú de navegación que permite a los usuarios acceder a otras secciones del sitio web. La página es responsiva y se adapta a diferentes tamaños de pantalla.
+
+#tecnologias utilizadas
+## El proyecto utiliza las siguientes tecnologías: HTML, CSS, JavaScript, Bootstrap, libreria font awesome, Google Maps API. Bootstrap se utiliza para crear un diseño responsivo y asegurar que el sitio web se vea bien en diferentes dispositivos y tamaños de pantalla. Google Maps API se utiliza para mostrar un mapa de la ubicación del centro médico en la página de contacto. Font Awesome se utiliza para agregar iconos a la página web. Además, se utilizaron herramientas como Visual Studio Code, Git y GitHub para el desarrollo y gestión del proyecto.
+
+#imagenes del proyecto
+##descargadas de https://www.freepik.es/ 
